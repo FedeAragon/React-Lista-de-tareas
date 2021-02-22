@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Turno con el doctor",
+      "day": "5 de Febrero a las 2:30PM",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Reunion del colegio",
+      "day": "6 de Febrero a las 1:30PM",
+      "reminder": false
+    },
+    {
+      "text": "Comprar comida",
+      "day": "5 de Febrero a las 2:30PM",
+      "reminder": false,
+      "id": 3
+    }
+  ]
+}
